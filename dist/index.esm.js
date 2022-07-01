@@ -2357,7 +2357,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/fitswapapp",
+        href: "https://t.me/GetFit2EarnSwap",
     },
     {
         label: "Twitter",
